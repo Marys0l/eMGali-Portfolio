@@ -20,7 +20,9 @@ Created with HTML and CSS, this porfolio includes semantic HTML elements. Images
 #### License 
 MIT License
 
-#### Gif of live application 
+#### Video of live application 
+
+![Screen_Recording_2021-10-11_at_9_52_02_PM_SparkVideo](https://user-images.githubusercontent.com/28649817/136878325-ce5104e5-e56b-42bd-a1d7-e0916e356a13.gif)
 
 
 
